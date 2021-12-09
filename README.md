@@ -2,7 +2,7 @@
 Final Project mata kuliah Pemrograman Berbasis Objek <br/>
 
 ## Deskripsi Final Project
-di FP PBO ini kami membuat game snake, dimana game snake ini merupakan game yang sudah ada sejak dahulu. Pada dasarnya di game snake ini tujuan kita sebagai player adalah mendapat score sebanyak banyaknya dengan mengumpulkan bola kecil dan kita juga harus menghindari bertabrakan dengan ekor ularnya agar tidak game over. Di final project ini kita akan mengembangkan game tersebut dengan cara menambah level agar lebih bervariasi, menambahkan sistem score, dan juga main menu atau pause.<br/>
+Di Final Project PBO ini kami membuat game snake, dimana game snake ini merupakan game yang sudah ada sejak dahulu diciptakan pada akhir tahun 1970 pada arcade. Pada dasarnya di game snake ini tujuan kita sebagai player adalah mendapat score sebanyak banyaknya dengan cara player akan mengendalikan sebuah mahluk yang menyerupai ular yang akan bergerak mengitari sebuah bidang berbentuk kotak, dengan tujuan mengambil makanan sebanyak mungkin. Dan juga player harus berusaha untuk tidak menabrak dinding atau ekornya sendiri dan itu akan semakin susah, karena setiap kali si player memakan makanan, ekornya akan bertambah panjang. Di final project ini kita akan mengembangkan game tersebut dengan cara menambah level agar lebih bervariasi, menambahkan sistem score, dan juga main menu atau pause..<br/>
 
 ## Anggota Kelompok
 1. Muhammad Zufarrifqi Prakoso - 5025201276
